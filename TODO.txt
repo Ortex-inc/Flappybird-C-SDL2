@@ -1,0 +1,2 @@
+Fix a click to not move all the bottons
+Fix click period
